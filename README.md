@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinasFakhori
-- 👀 I’m interested in java, cyber securty and AI.
-- 🌱 I’m currently studying Computer Science (first year) bachelors degree 
+- 👀 I’m interested in java, javascrip, react, cyber securty and AI.
+- 🌱 I’m currently studying Computer Science (second year) bachelors degree 
 
 
 <!---
