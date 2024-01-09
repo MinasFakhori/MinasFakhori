@@ -33,7 +33,7 @@
 <img src= https://www.minas.one/resources/mlflow.png width="50" height="40" style="border-radius:10px" ><img src= https://www.minas.one/resources/pandas.png width="40" height="40" style="border-radius:10px" >
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinasFakhori&theme=dark&&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinasFakhori&theme=dark&&layout=compact" />
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MinasFakhori&show_icons=true&theme=dark" />
