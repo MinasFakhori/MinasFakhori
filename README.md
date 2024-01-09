@@ -23,7 +23,9 @@
 
 
 <h3 align="center" >Languages:</h3>
-<p align="center"> <img src= https://www.minas.one/resources/java.svg width="40" height="40" style="border-radius:10px"> <img src= https://www.minas.one/resources/python.png width="35" height="40" style="border-radius:10px"> <img src= https://www.minas.one/resources/php.png width="45" height="40" style="border-radius:10px"> <img src= https://www.minas.one/resources/js.png width="40" height="40" style="border-radius:10px"> <img src= https://www.minas.one/resources/bash.png width="40" height="40" style="border-radius:10px"> <img src= https://www.minas.one/resources/c.png width="37" height="40" style="border-radius:10px">  <img src= https://www.minas.one/resources/sql.png width="40" height="40" style="border-radius:10px"> <img src= https://www.minas.one/resources/html.png width="50" height="50" style="border-radius:10px"><img src= https://www.minas.one/resources/css.png width="42" height="42" style="border-radius:10px"> </p>
+
+<img align="center" src="https://skillicons.dev/icons?i=java,python,php,c,bash,js,html,css"/>
+
 
 <h3 align="center">Tools and Technologies:</h3>
 <p align="left"> <img src= https://www.minas.one/resources/dvc.png width="50" height="40" style="border-radius:10px"> <img src= https://www.minas.one/resources/markdown.png width="55" height="40" style="border-radius:10px"> 
