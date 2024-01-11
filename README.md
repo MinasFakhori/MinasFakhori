@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minas</h1>
 <h3 align="center">A passionate computer science student currently doing his placement at Peloton</h3>
 
-![minas](https://github.com/MinasFakhori/MinasFakhori/assets/77994660/9eb95ad9-30e0-45ed-b111-ec49520764a6)
-
 
 <img align="right" src= "https://www.minas.one/resources/my_illustration.png" style="width:250px;">
 
