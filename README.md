@@ -3,7 +3,7 @@
 
 
 
-<img align="right" src= "https://www.minas.one/resources/my_illustration.png" style="width:250px;">
+<img align="right" src= "https://www.minas.one/resources/my_illustration.jpg" style="width:250px;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minasfakhori&label=Profile%20views&color=0e75b6&style=flat" alt="minasfakhori" /> </p>
