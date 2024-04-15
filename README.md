@@ -14,7 +14,7 @@
 
 - 📄 View my CV [minas.one/cv](https://minas.one/cv) 
 
-- 📫 Reach me on **minasfakhori1@outlook.com** or on [Linkedin](www.linkedin.com/in/minas-fakhori)
+- 📫 Reach me on **minasfakhori1@outlook.com** or on [Linkedin](https://www.linkedin.com/in/minas-fakhori)
 
 - 🎓 Student at [University of Brighton](https://www.brighton.ac.uk/index.aspx)
 
