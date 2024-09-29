@@ -9,9 +9,7 @@
 
 - 👨‍💻 Personal Website [minas.one](https://minas.one)
 
-- 📝 Follow my Blog [minas.one/blog](https://minas.one/blog)
-
-- 📄 View my CV [minas.one/cv](https://minas.one/cv) 
+- 📄 View my CV [cv.minas.one](https://cv.minas.one) 
 
 - 📫 Reach me on **minasfakhori1@outlook.com** or on [Linkedin](https://www.linkedin.com/in/minas-fakhori)
 
