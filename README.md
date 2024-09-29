@@ -2,7 +2,6 @@
 <h3 align="center">A passionate computer science student currently doing his placement at Peloton</h3>
 
 
-<img align="right" src= "https://www.minas.one/resources/my_illustration.png" style="width:250px;">
 
 
 
