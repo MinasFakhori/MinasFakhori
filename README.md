@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minas</h1>
-<h3 align="center">A passionate computer science student currently doing his placement at Peloton</h3>
+<h3 align="center">A final year computer science student at University of Brighton</h3>
 
 
 
