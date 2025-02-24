@@ -21,10 +21,3 @@
 <h3 align="center" >Languages:</h3>
 
 <img align="center" src="https://skillicons.dev/icons?i=java,python,php,c,bash,js,html,css"/>
-
-
-<p> </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinasFakhori&theme=dark&&layout=compact" />
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MinasFakhori&show_icons=true&theme=dark" />
