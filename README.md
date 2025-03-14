@@ -15,9 +15,6 @@
 
 - 🎓 Student at [University of Brighton](https://www.brighton.ac.uk/index.aspx)
 
-- ⚡ Fun fact: **The first computer virus, named "Creeper," was created in the early 1970s** 
-
-
 <h3 align="center" >Languages:</h3>
 
 <img align="center" src="https://skillicons.dev/icons?i=java,python,php,c,bash,js,html,css"/>
